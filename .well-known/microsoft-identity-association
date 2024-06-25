@@ -1,0 +1,9 @@
+{
+  "associatedApplications": [
+    {
+      "applicationId": "5275fdcb-eb0c-4b42-a15d-6e732951a73d"
+    }
+  ],
+  "publisherDomain": "sites.google.com/view/duckworks/home",
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/microsoft-identity-association.schema.json"
+}
